@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+}
+
+.content {
+  margin-left: 220px;
+  padding: 40px;
+  flex: 1;
+}
+
+.content h1 {
+  color: #5a3d2b;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+thead {
+  background-color: #f0e3d4;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #ccc;
+}
+
+td {
+  text-align: center;
+}
